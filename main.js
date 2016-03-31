@@ -22,7 +22,7 @@ isTeaching = null; //type null
 
 name = 26;
 
-
+var change = 'Yayyyy';
 
 console.log(typeof name, typeof age, typeof isMarried, typeof isTeaching);
 //Using the value
